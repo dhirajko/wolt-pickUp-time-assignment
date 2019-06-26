@@ -35,8 +35,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework',
-]
+    'median_calculator'
+    ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
