@@ -22,7 +22,7 @@ Input for project.
     development server :  http://127.0.0.1:8000/
 
     Method : GET
-    Url : http://127.0.0.1:8000/median-calculator?					location_id=12&start_time=2019-01-09T11:00:00&end_time=2019-01-09T12:00:00
+    Url : http://127.0.0.1:8000/median-calculator?location_id=12&start_time=2019-01-09T11:00:00&end_time=2019-01-09T12:00:00
 
                     
 
