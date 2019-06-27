@@ -39,3 +39,7 @@ Response :
         {
             "median": 27
         }
+
+
+
+PS: Please provide the time in above specific format (iso8601 timestamp) else the response will be invalid.
