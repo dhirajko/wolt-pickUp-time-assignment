@@ -16,6 +16,7 @@ step 3: Install the required package for project with follwing command.
 step 4: Run the project with command
         python manage.py runserver
 
+Demo video : https://www.youtube.com/watch?v=ZK2n4jNpz6E&feature=youtu.be
 
 Input for project.
 
